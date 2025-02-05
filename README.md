@@ -22,19 +22,6 @@ npm start
 
 🌍 The app will run on http://localhost:3000.
 
-/react-product-singlepage
-│── /src
-│   ├── /components
-│   │   ├── ProductList.js  # Product listing component
-│   │   ├── CategoryFilter.js # Filter component
-│   ├── /data
-│   │   ├── products.js  # Sample product data
-│   ├── App.js  # Main application file
-│   ├── index.js  # Entry point
-│── /public
-│── package.json
-│── README.md
-
 Technologies Used
 ⚛️ React.js – Frontend framework
 🎨 CSS (Styled Components / Tailwind) – Styling
